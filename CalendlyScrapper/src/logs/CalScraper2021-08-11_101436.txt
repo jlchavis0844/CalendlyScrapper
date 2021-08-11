@@ -1,0 +1,2473 @@
+scraping appts started at 2021-08-11_101436	 (2021-08-11T17:14:36Z)[
+    {
+        "created_at": "2021-08-09T16:48:47.543893Z",
+        "end_time": "2021-08-30T22:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "data": {
+                "id": 98720705236,
+                "settings": {},
+                "password": "3xmEJK",
+                "extra": null
+            },
+            "join_url": "https://zoom.us/j/98720705236?pwd=QUJIbnV3Z0tkWndLdVpldmFGRlAzQT09",
+            "status": "pushed",
+            "type": "zoom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-30T22:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T16:48:48.681437Z",
+        "uri": "https://api.calendly.com/scheduled_events/EA462U3ES2Q7GO22",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/APHXJ7IK6VTUOM4I",
+                "created_at": "2021-08-09T16:48:47.583126Z",
+                "email": "michellereardon@burbankusd.org",
+                "event": "https://api.calendly.com/scheduled_events/EA462U3ES2Q7GO22",
+                "first_name": null,
+                "last_name": null,
+                "name": "Michelle N Reardon",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 661-972-1286",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Follow up to previous conversations (403b)",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/APHXJ7IK6VTUOM4I",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T16:48:47.606219Z",
+                "uri": "https://api.calendly.com/scheduled_events/EA462U3ES2Q7GO22/invitees/APHXJ7IK6VTUOM4I"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-05T15:31:14.591627Z",
+        "end_time": "2021-08-25T23:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 916-220-3796",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-25T23:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-05T15:31:15.559688Z",
+        "uri": "https://api.calendly.com/scheduled_events/HH7Z7LRA5SYEU7BZ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BIDQPJ4UV5E5LJYR",
+                "created_at": "2021-08-05T15:31:14.619302Z",
+                "email": "micristo@msn.com",
+                "event": "https://api.calendly.com/scheduled_events/HH7Z7LRA5SYEU7BZ",
+                "first_name": null,
+                "last_name": null,
+                "name": "Kim Cristo",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 916-220-3796",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "7702 Plan Comparison",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BIDQPJ4UV5E5LJYR",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-05T15:31:14.638741Z",
+                "uri": "https://api.calendly.com/scheduled_events/HH7Z7LRA5SYEU7BZ/invitees/BIDQPJ4UV5E5LJYR"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-05T20:22:40.580488Z",
+        "end_time": "2021-08-21T18:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-21T17:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-05T20:22:41.166406Z",
+        "uri": "https://api.calendly.com/scheduled_events/ED5Z3LV2TAJKNVNQ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CMCWKREOQL5S2ICQ",
+                "created_at": "2021-08-05T20:22:40.595219Z",
+                "email": "antwonhazzard@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/ED5Z3LV2TAJKNVNQ",
+                "first_name": "Antwon",
+                "last_name": "Hazzard",
+                "name": "Antwon Hazzard",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "7202508248",
+                        "position": 0,
+                        "question": "Phone"
+                    },
+                    {
+                        "answer": "I would like to transfer funds from another school district",
+                        "position": 1,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/CMCWKREOQL5S2ICQ",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-05T20:22:40.609761Z",
+                "uri": "https://api.calendly.com/scheduled_events/ED5Z3LV2TAJKNVNQ/invitees/CMCWKREOQL5S2ICQ"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-10T17:46:42.484257Z",
+        "end_time": "2021-08-20T02:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/BEBDJD4QMIGUMRR4"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/ECDJW7OMTBU7VHYV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "I will call you",
+            "type": "custom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-20T02:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T17:46:43.132777Z",
+        "uri": "https://api.calendly.com/scheduled_events/FE47Y3JRHFT43TGV",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/ENGRTFDFQDMJJPYB",
+                "created_at": "2021-08-10T17:46:42.506424Z",
+                "email": "bfreitag@ralotter.com",
+                "event": "https://api.calendly.com/scheduled_events/FE47Y3JRHFT43TGV",
+                "first_name": null,
+                "last_name": null,
+                "name": "Brian Freitag",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 949-253-8500",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Appointment test",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/ENGRTFDFQDMJJPYB",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 949-432-4870",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T17:46:42.522508Z",
+                "uri": "https://api.calendly.com/scheduled_events/FE47Y3JRHFT43TGV/invitees/ENGRTFDFQDMJJPYB"
+            }
+        ],
+        "user": "Steve Baime"
+    },
+    {
+        "created_at": "2021-08-09T04:22:49.986706Z",
+        "end_time": "2021-08-20T01:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AHDLG2XTTQ6HLNYE",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "David Barto will call you. His number is (408) 785-6675.",
+            "type": "custom"
+        },
+        "name": "District Audit of 403(b)/457 Accounts",
+        "start_time": "2021-08-20T00:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T04:22:50.487211Z",
+        "uri": "https://api.calendly.com/scheduled_events/HA534UWE7NBDCYJL",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BNCTI2BJOR4YZACK",
+                "created_at": "2021-08-09T04:22:50.009450Z",
+                "email": "maguilar@fcusd.org",
+                "event": "https://api.calendly.com/scheduled_events/HA534UWE7NBDCYJL",
+                "first_name": null,
+                "last_name": null,
+                "name": "Manurla agular dominguez",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 916-220-6781",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Manuela Aguilar",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "Need spanish interperter ",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BNCTI2BJOR4YZACK",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T04:22:50.027512Z",
+                "uri": "https://api.calendly.com/scheduled_events/HA534UWE7NBDCYJL/invitees/BNCTI2BJOR4YZACK"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-10T22:47:49.611218Z",
+        "end_time": "2021-08-20T00:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/DGBBGSO5J47G6IEE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEF3XB7326BVCCGZ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Audit of 403(b)/457 Accounts",
+        "start_time": "2021-08-20T00:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T22:47:50.394843Z",
+        "uri": "https://api.calendly.com/scheduled_events/FD445ZXEQ7OUZJEK",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/HNHXWEBZRA5SLJ5I",
+                "created_at": "2021-08-10T22:47:49.625420Z",
+                "email": "mvistro@fcusd.org",
+                "event": "https://api.calendly.com/scheduled_events/FD445ZXEQ7OUZJEK",
+                "first_name": "Marci",
+                "last_name": "Vistro",
+                "name": "Marci Vistro",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "916-337-6506",
+                        "position": 0,
+                        "question": "Phone Number"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/HNHXWEBZRA5SLJ5I",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T22:47:49.639776Z",
+                "uri": "https://api.calendly.com/scheduled_events/FD445ZXEQ7OUZJEK/invitees/HNHXWEBZRA5SLJ5I"
+            }
+        ],
+        "user": "Shawn Vile"
+    },
+    {
+        "created_at": "2021-08-05T22:46:30.293495Z",
+        "end_time": "2021-08-19T23:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/DGBBGSO5J47G6IEE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-19T23:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-05T22:46:30.992290Z",
+        "uri": "https://api.calendly.com/scheduled_events/EB36ZP3AP67M2DXN",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BIDSIXCQT5PMOHWB",
+                "created_at": "2021-08-05T22:46:30.309485Z",
+                "email": "jthompson5470@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/EB36ZP3AP67M2DXN",
+                "first_name": "Jordan",
+                "last_name": "Thompson",
+                "name": "Jordan Thompson",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "2099159457",
+                        "position": 0,
+                        "question": "Phone"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BIDSIXCQT5PMOHWB",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-05T22:46:30.323466Z",
+                "uri": "https://api.calendly.com/scheduled_events/EB36ZP3AP67M2DXN/invitees/BIDSIXCQT5PMOHWB"
+            }
+        ],
+        "user": "Shawn Vile"
+    },
+    {
+        "created_at": "2021-08-09T20:30:52.022420Z",
+        "end_time": "2021-08-17T21:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/CHCFYQRX2CCCOQJ6",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 714-679-1165",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-17T21:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T23:19:22.696800Z",
+        "uri": "https://api.calendly.com/scheduled_events/CCZ62V4YDBWSMV6O",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/ELFTM7WBUAUIRMPI",
+                "created_at": "2021-08-09T20:30:52.045464Z",
+                "email": "respinachio@occ.cccd.edu",
+                "event": "https://api.calendly.com/scheduled_events/CCZ62V4YDBWSMV6O",
+                "first_name": null,
+                "last_name": null,
+                "name": "Richard Espinachio",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 714-679-1165",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Retirement",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/ELFTM7WBUAUIRMPI",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 714-679-1165",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T20:30:52.059695Z",
+                "uri": "https://api.calendly.com/scheduled_events/CCZ62V4YDBWSMV6O/invitees/ELFTM7WBUAUIRMPI"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-07-27T20:28:05.982615Z",
+        "end_time": "2021-08-16T23:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 916-584-0272",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-16T23:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-27T20:28:07.249459Z",
+        "uri": "https://api.calendly.com/scheduled_events/FG6YSSAIMTXUR5BH",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/FPBTCM6RWEKKO4RI",
+                "created_at": "2021-07-27T20:28:06.000359Z",
+                "email": "shay7191@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/FG6YSSAIMTXUR5BH",
+                "first_name": null,
+                "last_name": null,
+                "name": "La'Shay Woods",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 916-584-0272",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "7702 Plan Comparison",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/FPBTCM6RWEKKO4RI",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 916-584-0272",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-27T20:28:06.012415Z",
+                "uri": "https://api.calendly.com/scheduled_events/FG6YSSAIMTXUR5BH/invitees/FPBTCM6RWEKKO4RI"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-06T11:14:28.097792Z",
+        "end_time": "2021-08-16T23:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/DGBBGSO5J47G6IEE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-16T23:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-06T11:14:28.802256Z",
+        "uri": "https://api.calendly.com/scheduled_events/GC256J6XVM6DAEGE",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/APAQPQLKNE7A5HVC",
+                "created_at": "2021-08-06T11:14:28.109002Z",
+                "email": "jenmwatson77@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/GC256J6XVM6DAEGE",
+                "first_name": "Jennifer",
+                "last_name": "Watson",
+                "name": "Jennifer Watson",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "5302187480",
+                        "position": 0,
+                        "question": "Phone"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/APAQPQLKNE7A5HVC",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-06T11:14:28.122168Z",
+                "uri": "https://api.calendly.com/scheduled_events/GC256J6XVM6DAEGE/invitees/APAQPQLKNE7A5HVC"
+            }
+        ],
+        "user": "Shawn Vile"
+    },
+    {
+        "created_at": "2021-08-09T16:01:18.322434Z",
+        "end_time": "2021-08-16T19:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "data": {
+                "id": 99554800425,
+                "settings": {},
+                "password": "Hf19zK",
+                "extra": null
+            },
+            "join_url": "https://zoom.us/j/99554800425?pwd=ZzBWb1habGFuT1hISFlYYXMxL0JPUT09",
+            "status": "pushed",
+            "type": "zoom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-16T19:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T16:01:21.875445Z",
+        "uri": "https://api.calendly.com/scheduled_events/FH642U2GG3JE2YOE",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GMFQMYLLKNBVLOPB",
+                "created_at": "2021-08-09T16:01:18.353931Z",
+                "email": "c.manujanoespinoza@salinasuhsd.org",
+                "event": "https://api.calendly.com/scheduled_events/FH642U2GG3JE2YOE",
+                "first_name": null,
+                "last_name": null,
+                "name": "carolina mandujano",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 831-710-0298",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Personalized Retirement Income Gap Analysis",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GMFQMYLLKNBVLOPB",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 831-710-0298",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T16:01:18.383851Z",
+                "uri": "https://api.calendly.com/scheduled_events/FH642U2GG3JE2YOE/invitees/GMFQMYLLKNBVLOPB"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-06T21:19:27.771447Z",
+        "end_time": "2021-08-14T18:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-14T17:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T23:19:23.498824Z",
+        "uri": "https://api.calendly.com/scheduled_events/AG425TARVTAOPBLF",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CKFSKQXN4MMGZWTY",
+                "created_at": "2021-08-06T21:19:27.785298Z",
+                "email": "clerissap@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/AG425TARVTAOPBLF",
+                "first_name": "Clerissa",
+                "last_name": "Perez",
+                "name": "Clerissa Perez",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "8188088115",
+                        "position": 0,
+                        "question": "Phone"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/CKFSKQXN4MMGZWTY",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-06T21:19:27.798635Z",
+                "uri": "https://api.calendly.com/scheduled_events/AG425TARVTAOPBLF/invitees/CKFSKQXN4MMGZWTY"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-08-11T03:43:22.176334Z",
+        "end_time": "2021-08-14T17:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/BEBDJD4QMIGUMRR4"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEF3XB7326BVCCGZ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Audit of 403(b)/457 Accounts",
+        "start_time": "2021-08-14T17:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-11T03:43:22.789382Z",
+        "uri": "https://api.calendly.com/scheduled_events/GDY5Y7XP27LUFX6X",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GJAQSDLICMZKKFLP",
+                "created_at": "2021-08-11T03:43:22.195415Z",
+                "email": "jhuang@fcusd.org",
+                "event": "https://api.calendly.com/scheduled_events/GDY5Y7XP27LUFX6X",
+                "first_name": "Jolene",
+                "last_name": "Huang",
+                "name": "Jolene Huang",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "5623916433",
+                        "position": 0,
+                        "question": "Phone Number"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GJAQSDLICMZKKFLP",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-11T03:43:22.208338Z",
+                "uri": "https://api.calendly.com/scheduled_events/GDY5Y7XP27LUFX6X/invitees/GJAQSDLICMZKKFLP"
+            }
+        ],
+        "user": "Steve Baime"
+    },
+    {
+        "created_at": "2021-08-09T01:09:51.918683Z",
+        "end_time": "2021-08-14T16:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FACFA4EUBMUSC6YI"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-14T16:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T01:09:52.726670Z",
+        "uri": "https://api.calendly.com/scheduled_events/DBZ7YUVAON3W2XGJ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GPHVN3DEYWGSAX5I",
+                "created_at": "2021-08-09T01:09:51.933861Z",
+                "email": "agruenwald@fcusd.org",
+                "event": "https://api.calendly.com/scheduled_events/DBZ7YUVAON3W2XGJ",
+                "first_name": "Abigail",
+                "last_name": "Gruenwald",
+                "name": "Abigail Gruenwald",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "(916) 261-3450",
+                        "position": 0,
+                        "question": "Phone"
+                    },
+                    {
+                        "answer": "I have 403b and 457b questions.",
+                        "position": 1,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GPHVN3DEYWGSAX5I",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T01:09:51.946350Z",
+                "uri": "https://api.calendly.com/scheduled_events/DBZ7YUVAON3W2XGJ/invitees/GPHVN3DEYWGSAX5I"
+            }
+        ],
+        "user": "Joanna Lopez"
+    },
+    {
+        "created_at": "2021-08-09T00:51:05.265610Z",
+        "end_time": "2021-08-14T00:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/EFA7SMGDHHQJ6ECV",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "2021 District Meaningful Notice Appointment",
+        "start_time": "2021-08-14T00:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T00:51:05.752543Z",
+        "uri": "https://api.calendly.com/scheduled_events/EH763STHKNHQ2WGC",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/ENEUI2GCYPB2FE36",
+                "created_at": "2021-08-09T00:51:05.279607Z",
+                "email": "jen.jarwin1@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/EH763STHKNHQ2WGC",
+                "first_name": "Jennifer",
+                "last_name": "Jarwin",
+                "name": "Jennifer Jarwin",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "9163166009",
+                        "position": 0,
+                        "question": "Phone"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/ENEUI2GCYPB2FE36",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T00:51:05.291059Z",
+                "uri": "https://api.calendly.com/scheduled_events/EH763STHKNHQ2WGC/invitees/ENEUI2GCYPB2FE36"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-07-30T04:01:46.333147Z",
+        "end_time": "2021-08-13T17:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/EHDHANZCMEUJD32K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEHFQSRD4PVOQQ7S",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "30 Minute Meeting",
+        "start_time": "2021-08-13T17:15:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-30T04:01:47.098609Z",
+        "uri": "https://api.calendly.com/scheduled_events/CH77R2GXUEVTV6X2",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CPEWE3FXCPOCHMGZ",
+                "created_at": "2021-07-30T04:01:46.350135Z",
+                "email": "perkinsjon60@hotmail.com",
+                "event": "https://api.calendly.com/scheduled_events/CH77R2GXUEVTV6X2",
+                "first_name": "Jonathan",
+                "last_name": "Perkins",
+                "name": "Jonathan Perkins",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [],
+                "reschedule_url": "https://calendly.com/reschedulings/CPEWE3FXCPOCHMGZ",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-30T04:01:46.360144Z",
+                "uri": "https://api.calendly.com/scheduled_events/CH77R2GXUEVTV6X2/invitees/CPEWE3FXCPOCHMGZ"
+            }
+        ],
+        "user": "BrianFreitag"
+    },
+    {
+        "created_at": "2021-07-30T04:01:18.543799Z",
+        "end_time": "2021-08-13T16:15:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/EHDHANZCMEUJD32K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEHFQSRD4PVOQQ7S",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "30 Minute Meeting",
+        "start_time": "2021-08-13T15:45:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-30T04:01:19.141628Z",
+        "uri": "https://api.calendly.com/scheduled_events/FDZ7Q2FRUDXVI34B",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/EMHVG7FRAKF25AJL",
+                "created_at": "2021-07-30T04:01:18.560421Z",
+                "email": "perkinsjon60@hotmail.com",
+                "event": "https://api.calendly.com/scheduled_events/FDZ7Q2FRUDXVI34B",
+                "first_name": "Jonathan",
+                "last_name": "Perkins",
+                "name": "Jonathan Perkins",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [],
+                "reschedule_url": "https://calendly.com/reschedulings/EMHVG7FRAKF25AJL",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-30T04:01:18.570348Z",
+                "uri": "https://api.calendly.com/scheduled_events/FDZ7Q2FRUDXVI34B/invitees/EMHVG7FRAKF25AJL"
+            }
+        ],
+        "user": "BrianFreitag"
+    },
+    {
+        "created_at": "2021-08-11T01:10:59.537826Z",
+        "end_time": "2021-08-13T02:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 408-930-5376",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-13T02:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-11T01:11:00.117929Z",
+        "uri": "https://api.calendly.com/scheduled_events/DAZ526VMO7DCOBXH",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BLFXXALGMRLX24FG",
+                "created_at": "2021-08-11T01:10:59.555351Z",
+                "email": "2jennyja@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/DAZ526VMO7DCOBXH",
+                "first_name": null,
+                "last_name": null,
+                "name": "Jenny Adriano",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-930-5376",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "opening a 403b account",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BLFXXALGMRLX24FG",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 408-930-5376",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-11T01:10:59.568135Z",
+                "uri": "https://api.calendly.com/scheduled_events/DAZ526VMO7DCOBXH/invitees/BLFXXALGMRLX24FG"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-10T04:01:30.338017Z",
+        "end_time": "2021-08-13T01:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/HCAGDCUEVUGNGPR5"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/HHAHSMYFTQDDRZY5",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Employee Benefits Team Member to Call You",
+            "type": "custom"
+        },
+        "name": "Your Employee Benefits Phone Appointment ",
+        "start_time": "2021-08-13T00:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T04:01:30.964619Z",
+        "uri": "https://api.calendly.com/scheduled_events/HC7423HNP57BE6KH",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/DNCQIZS4IOUSNT44",
+                "created_at": "2021-08-10T04:01:30.359568Z",
+                "email": "jtaylor@sjusd.org",
+                "event": "https://api.calendly.com/scheduled_events/HC7423HNP57BE6KH",
+                "first_name": "Julianne",
+                "last_name": "Taylor",
+                "name": "Julianne Taylor",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "4088585978",
+                        "position": 0,
+                        "question": "Mobile Phone Number"
+                    },
+                    {
+                        "answer": "San Jose Unified School District",
+                        "position": 2,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "7702 Pension Maximization ",
+                        "position": 3,
+                        "question": "What are you interested in?"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/DNCQIZS4IOUSNT44",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 408-858-5978",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T04:01:30.375012Z",
+                "uri": "https://api.calendly.com/scheduled_events/HC7423HNP57BE6KH/invitees/DNCQIZS4IOUSNT44"
+            }
+        ],
+        "user": "Employee Benefits Portal"
+    },
+    {
+        "created_at": "2021-08-10T21:30:59.228558Z",
+        "end_time": "2021-08-13T00:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GGDJF7TVTRL4TMVP",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Tony Vaca will call you. His number is (916) 823-8727.",
+            "type": "custom"
+        },
+        "name": "District Meaningful Notice Appointment",
+        "start_time": "2021-08-13T00:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T21:30:59.959409Z",
+        "uri": "https://api.calendly.com/scheduled_events/DCZ236WFGTZNO57F",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/FKBWSECV5ZDAP6YL",
+                "created_at": "2021-08-10T21:30:59.249925Z",
+                "email": "melanie.r.aguinaga@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/DCZ236WFGTZNO57F",
+                "first_name": null,
+                "last_name": null,
+                "name": "Melanie Aguinaga",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 562-708-9178",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Campbell Union High School District",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "I want to discuss the 403b and getting that started.",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/FKBWSECV5ZDAP6YL",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 562-708-9178",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T21:30:59.266782Z",
+                "uri": "https://api.calendly.com/scheduled_events/DCZ236WFGTZNO57F/invitees/FKBWSECV5ZDAP6YL"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-08-09T23:19:39.777449Z",
+        "end_time": "2021-08-12T23:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FACFA4EUBMUSC6YI"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GGDJF7TVTRL4TMVP",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Joanna will call you. Her number is (916) 545-9405.",
+            "type": "custom"
+        },
+        "name": "District Meaningful Notice Appointment",
+        "start_time": "2021-08-12T23:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T23:19:40.528995Z",
+        "uri": "https://api.calendly.com/scheduled_events/BH3662GDNPKWDWJZ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GJBSI4UWEEBOYVTV",
+                "created_at": "2021-08-09T23:19:39.799195Z",
+                "email": "cathie.short@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/BH3662GDNPKWDWJZ",
+                "first_name": null,
+                "last_name": null,
+                "name": "Cathie Watson-Short",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-832-7349",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "CUHSD",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "I would like to upgrade my health insurance now that I am a teacher (was an aide before) and I want to increase my FSA amount.",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GJBSI4UWEEBOYVTV",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-09T23:19:39.818153Z",
+                "uri": "https://api.calendly.com/scheduled_events/BH3662GDNPKWDWJZ/invitees/GJBSI4UWEEBOYVTV"
+            }
+        ],
+        "user": "Joanna Lopez"
+    },
+    {
+        "created_at": "2021-08-10T00:04:49.210817Z",
+        "end_time": "2021-08-12T22:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/CHCFYQRX2CCCOQJ6",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 714-721-1865",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T22:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T00:04:50.101826Z",
+        "uri": "https://api.calendly.com/scheduled_events/EG5363GDXJIBSIDN",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/FJEVL6SVJDVSY5N5",
+                "created_at": "2021-08-10T00:04:49.230577Z",
+                "email": "charmaine.day1@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/EG5363GDXJIBSIDN",
+                "first_name": null,
+                "last_name": null,
+                "name": "Charmaine Day",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 714-721-1865",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Current STRS/PERS Estimate",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/FJEVL6SVJDVSY5N5",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 714-721-1865",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T00:04:49.244977Z",
+                "uri": "https://api.calendly.com/scheduled_events/EG5363GDXJIBSIDN/invitees/FJEVL6SVJDVSY5N5"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-08-03T01:39:19.780683Z",
+        "end_time": "2021-08-12T22:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FACFA4EUBMUSC6YI"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GECKDUGES5FRUSKC",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "data": {
+                "id": 93048907549,
+                "settings": {},
+                "password": "GrXw0y",
+                "extra": null
+            },
+            "join_url": "https://zoom.us/j/93048907549?pwd=K3R0Vmh5N3cvbmdybVkvYzQ1QzBiQT09",
+            "status": "pushed",
+            "type": "zoom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T21:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-03T01:39:20.866114Z",
+        "uri": "https://api.calendly.com/scheduled_events/HC75YHLIJMMY2S7B",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/DOGVLHXBKAMDTDUG",
+                "created_at": "2021-08-03T01:39:19.802883Z",
+                "email": "argelia.madrigal@att.net",
+                "event": "https://api.calendly.com/scheduled_events/HC75YHLIJMMY2S7B",
+                "first_name": null,
+                "last_name": null,
+                "name": "Argelia Madrigal",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 209-617-8429",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Current STRS/PERS Estimate",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/DOGVLHXBKAMDTDUG",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 209-617-8429",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-03T01:39:19.815535Z",
+                "uri": "https://api.calendly.com/scheduled_events/HC75YHLIJMMY2S7B/invitees/DOGVLHXBKAMDTDUG"
+            }
+        ],
+        "user": "Joanna Lopez"
+    },
+    {
+        "created_at": "2021-08-10T02:52:45.870654Z",
+        "end_time": "2021-08-12T21:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/BAADAVOZI7Q66UZ3"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/CGFGZRRRTH3QFFOB",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "I will call you",
+            "type": "custom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T21:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T02:52:46.490957Z",
+        "uri": "https://api.calendly.com/scheduled_events/FE52ZYBOMHUFTFQD",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GOBTJZWZEO2PLPHX",
+                "created_at": "2021-08-10T02:52:45.889412Z",
+                "email": "elainebchan@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/FE52ZYBOMHUFTFQD",
+                "first_name": null,
+                "last_name": null,
+                "name": "Elaine Chan",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 415-412-7500",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Audit of your 403(b)/457(b) Accounts",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GOBTJZWZEO2PLPHX",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T02:52:45.903651Z",
+                "uri": "https://api.calendly.com/scheduled_events/FE52ZYBOMHUFTFQD/invitees/GOBTJZWZEO2PLPHX"
+            }
+        ],
+        "user": "Joyce Lavin"
+    },
+    {
+        "created_at": "2021-07-30T04:01:04.679815Z",
+        "end_time": "2021-08-12T17:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/EHDHANZCMEUJD32K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEHFQSRD4PVOQQ7S",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "30 Minute Meeting",
+        "start_time": "2021-08-12T17:15:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-30T04:01:05.325377Z",
+        "uri": "https://api.calendly.com/scheduled_events/EB65Q2AQXAVRNRDL",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GKHRD7HUGOB3QRBD",
+                "created_at": "2021-07-30T04:01:04.697758Z",
+                "email": "perkinsjon60@hotmail.com",
+                "event": "https://api.calendly.com/scheduled_events/EB65Q2AQXAVRNRDL",
+                "first_name": "Jonathan",
+                "last_name": "Perkins",
+                "name": "Jonathan Perkins",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [],
+                "reschedule_url": "https://calendly.com/reschedulings/GKHRD7HUGOB3QRBD",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-30T04:01:04.708380Z",
+                "uri": "https://api.calendly.com/scheduled_events/EB65Q2AQXAVRNRDL/invitees/GKHRD7HUGOB3QRBD"
+            }
+        ],
+        "user": "BrianFreitag"
+    },
+    {
+        "created_at": "2021-08-06T23:40:01.401821Z",
+        "end_time": "2021-08-12T16:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/HCAGDCUEVUGNGPR5"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/HHAHSMYFTQDDRZY5",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Employee Benefits Team Member to Call You",
+            "type": "custom"
+        },
+        "name": "Your Employee Benefits Phone Appointment ",
+        "start_time": "2021-08-12T16:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-06T23:40:01.989104Z",
+        "uri": "https://api.calendly.com/scheduled_events/GD44YTG7GYXKVUCG",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/AJATITQQTDH465CT",
+                "created_at": "2021-08-06T23:40:01.419301Z",
+                "email": "altaelee@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/GD44YTG7GYXKVUCG",
+                "first_name": "Alice",
+                "last_name": "Lee",
+                "name": "Alice Lee",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "3109380315",
+                        "position": 0,
+                        "question": "Mobile Phone Number"
+                    },
+                    {
+                        "answer": "El Segundo Unified",
+                        "position": 2,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "Current STRS / PERS estimate",
+                        "position": 3,
+                        "question": "What are you interested in?"
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/AJATITQQTDH465CT",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 310-938-0315",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-06T23:40:01.431993Z",
+                "uri": "https://api.calendly.com/scheduled_events/GD44YTG7GYXKVUCG/invitees/AJATITQQTDH465CT"
+            }
+        ],
+        "user": "Employee Benefits Portal"
+    },
+    {
+        "created_at": "2021-07-30T04:00:53.326012Z",
+        "end_time": "2021-08-12T16:15:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/EHDHANZCMEUJD32K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEHFQSRD4PVOQQ7S",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "30 Minute Meeting",
+        "start_time": "2021-08-12T15:45:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-30T04:00:53.979057Z",
+        "uri": "https://api.calendly.com/scheduled_events/DD4ZW4GXVETTIH6E",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/EOHWB3EVHNHYSBP4",
+                "created_at": "2021-07-30T04:00:53.345887Z",
+                "email": "perkinsjon60@hotmail.com",
+                "event": "https://api.calendly.com/scheduled_events/DD4ZW4GXVETTIH6E",
+                "first_name": "Jonathan",
+                "last_name": "Perkins",
+                "name": "Jonathan Perkins",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [],
+                "reschedule_url": "https://calendly.com/reschedulings/EOHWB3EVHNHYSBP4",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-30T04:00:53.358931Z",
+                "uri": "https://api.calendly.com/scheduled_events/DD4ZW4GXVETTIH6E/invitees/EOHWB3EVHNHYSBP4"
+            }
+        ],
+        "user": "BrianFreitag"
+    },
+    {
+        "created_at": "2021-08-11T01:18:32.106723Z",
+        "end_time": "2021-08-12T14:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 408-930-5376",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T14:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-11T01:18:32.717244Z",
+        "uri": "https://api.calendly.com/scheduled_events/CC7733WMJ2VGF5MV",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CIBSXHODI5EEEZBU",
+                "created_at": "2021-08-11T01:18:32.125597Z",
+                "email": "2jennyja@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/CC7733WMJ2VGF5MV",
+                "first_name": null,
+                "last_name": null,
+                "name": "Jenny Adriano",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-930-5376",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "opening 403b account",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/CIBSXHODI5EEEZBU",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 408-930-5376",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-11T01:18:32.139675Z",
+                "uri": "https://api.calendly.com/scheduled_events/CC7733WMJ2VGF5MV/invitees/CIBSXHODI5EEEZBU"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-10T01:16:13.114486Z",
+        "end_time": "2021-08-12T02:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/BAADAVOZI7Q66UZ3"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/CGFGZRRRTH3QFFOB",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "I will call you",
+            "type": "custom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T02:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T01:16:13.680195Z",
+        "uri": "https://api.calendly.com/scheduled_events/BD7Y24BE4UXTZOX2",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BNFQL2SRUS76MADB",
+                "created_at": "2021-08-10T01:16:13.138827Z",
+                "email": "katza@mhusd.org",
+                "event": "https://api.calendly.com/scheduled_events/BD7Y24BE4UXTZOX2",
+                "first_name": null,
+                "last_name": null,
+                "name": "Ashley Gretchen Katz",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-931-1332",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "403 ",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BNFQL2SRUS76MADB",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T01:16:13.152708Z",
+                "uri": "https://api.calendly.com/scheduled_events/BD7Y24BE4UXTZOX2/invitees/BNFQL2SRUS76MADB"
+            }
+        ],
+        "user": "Joyce Lavin"
+    },
+    {
+        "created_at": "2021-08-04T04:22:56.439124Z",
+        "end_time": "2021-08-12T01:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/AEHGFWM6TGOE6Y5K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AEBBZUSQV7ZIXZCJ",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "+1 530-650-3076",
+            "type": "outbound_call"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-12T01:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-04T04:22:57.186186Z",
+        "uri": "https://api.calendly.com/scheduled_events/BCZ63E7QD37VKV3E",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BNFXOOGSMX23IQ72",
+                "created_at": "2021-08-04T04:22:56.463295Z",
+                "email": "efranzella@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/BCZ63E7QD37VKV3E",
+                "first_name": null,
+                "last_name": null,
+                "name": "Evelyn Franzella-Chiem",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 530-680-3076",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "7702 Plan Comparison",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/BNFXOOGSMX23IQ72",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 530-680-3076",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-04T04:22:56.480564Z",
+                "uri": "https://api.calendly.com/scheduled_events/BCZ63E7QD37VKV3E/invitees/BNFXOOGSMX23IQ72"
+            }
+        ],
+        "user": "David Barto"
+    },
+    {
+        "created_at": "2021-08-10T02:42:07.972163Z",
+        "end_time": "2021-08-11T22:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/GACALAUSXUCTSC7F"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GGDJF7TVTRL4TMVP",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Robert Richardson will call you. His number is (916) 469-0215.",
+            "type": "custom"
+        },
+        "name": "District Meaningful Notice Appointment",
+        "start_time": "2021-08-11T22:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T02:42:08.479999Z",
+        "uri": "https://api.calendly.com/scheduled_events/FA23Z5GKFYZ7IQFM",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/DKAULYV6BMFWVWBI",
+                "created_at": "2021-08-10T02:42:07.990498Z",
+                "email": "karen.arias100@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/FA23Z5GKFYZ7IQFM",
+                "first_name": null,
+                "last_name": null,
+                "name": "Karen Arias",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-616-9134",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Morgan Hill Unified School District",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "I plan on enrolling in the Cal STRS pension 2 403(b) option. Not sure if I should set aside 15% or 20% of my pay towards the plan",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/DKAULYV6BMFWVWBI",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 408-616-9134",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T02:42:08.007534Z",
+                "uri": "https://api.calendly.com/scheduled_events/FA23Z5GKFYZ7IQFM/invitees/DKAULYV6BMFWVWBI"
+            }
+        ],
+        "user": "Robert Richardson"
+    },
+    {
+        "created_at": "2021-08-10T00:10:35.468985Z",
+        "end_time": "2021-08-11T22:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/DGBBGSO5J47G6IEE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/AHDLG2XTTQ6HLNYE",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Shawn Vile will call you. Her number is (714) 494-1171.",
+            "type": "custom"
+        },
+        "name": "District Audit of 403(b)/457 Accounts",
+        "start_time": "2021-08-11T21:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T00:10:36.253934Z",
+        "uri": "https://api.calendly.com/scheduled_events/DB675YBFVN2HPBWZ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CLGQKYXULKB75BZQ",
+                "created_at": "2021-08-10T00:10:35.489835Z",
+                "email": "melissaflores710@gmail.com",
+                "event": "https://api.calendly.com/scheduled_events/DB675YBFVN2HPBWZ",
+                "first_name": null,
+                "last_name": null,
+                "name": "Melissa Flores",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 818-602-1846",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Morgan Hill Unified School District",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "School Site - PA Walsh \n\nPrevious Districts:\nMilpitas Unified: 2018-2021\nVoices Charter Schools: 2015-2018",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/CLGQKYXULKB75BZQ",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T00:10:35.506910Z",
+                "uri": "https://api.calendly.com/scheduled_events/DB675YBFVN2HPBWZ/invitees/CLGQKYXULKB75BZQ"
+            }
+        ],
+        "user": "Shawn Vile"
+    },
+    {
+        "created_at": "2021-08-10T15:18:48.576282Z",
+        "end_time": "2021-08-11T21:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/BAADAVOZI7Q66UZ3"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/CGFGZRRRTH3QFFOB",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "I will call you",
+            "type": "custom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-11T21:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-10T15:18:49.223143Z",
+        "uri": "https://api.calendly.com/scheduled_events/EC5563PEREBEX2LM",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/DLGWP54W7HINVU4O",
+                "created_at": "2021-08-10T15:18:48.598082Z",
+                "email": "colet@smccd.edu",
+                "event": "https://api.calendly.com/scheduled_events/EC5563PEREBEX2LM",
+                "first_name": null,
+                "last_name": null,
+                "name": "Terrence M. Cole",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 415-368-7278",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Personalized Retirement Income Gap Analysis",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/DLGWP54W7HINVU4O",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 415-368-7278",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T15:18:48.613262Z",
+                "uri": "https://api.calendly.com/scheduled_events/EC5563PEREBEX2LM/invitees/DLGWP54W7HINVU4O"
+            }
+        ],
+        "user": "Joyce Lavin"
+    },
+    {
+        "created_at": "2021-08-08T15:52:56.443878Z",
+        "end_time": "2021-08-11T20:00:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GGDJF7TVTRL4TMVP",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Tony Vaca will call you. His number is (916) 823-8727.",
+            "type": "custom"
+        },
+        "name": "District Meaningful Notice Appointment",
+        "start_time": "2021-08-11T19:30:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-08-09T23:19:23.325897Z",
+        "uri": "https://api.calendly.com/scheduled_events/ED233WP3GBJFCKQL",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/COHSOX53ER3OPRVQ",
+                "created_at": "2021-08-08T15:52:56.462148Z",
+                "email": "louisepulido@yahoo.com",
+                "event": "https://api.calendly.com/scheduled_events/ED233WP3GBJFCKQL",
+                "first_name": null,
+                "last_name": null,
+                "name": "Louise Gaska-Pulido",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-204-7176",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Morgan Hill Unified School District",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "403B",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/COHSOX53ER3OPRVQ",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": "+1 408-204-7176",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-08T15:52:56.475506Z",
+                "uri": "https://api.calendly.com/scheduled_events/ED233WP3GBJFCKQL/invitees/COHSOX53ER3OPRVQ"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-07-29T03:48:58.447114Z",
+        "end_time": "2021-08-11T18:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FACFA4EUBMUSC6YI"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GECKDUGES5FRUSKC",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "data": {
+                "id": 99331124425,
+                "settings": {},
+                "password": "AiQk6p",
+                "extra": null
+            },
+            "join_url": "https://zoom.us/j/99331124425?pwd=TmhNL083SUFtUXExazFqUHB0bFhTUT09",
+            "status": "pushed",
+            "type": "zoom"
+        },
+        "name": "30 Min Employee Benefits Appointment ",
+        "start_time": "2021-08-11T18:00:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-29T03:48:59.572264Z",
+        "uri": "https://api.calendly.com/scheduled_events/GCZ4SSTYNJNMYS33",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/GLFXGXQJYLT2JTQF",
+                "created_at": "2021-07-29T03:48:58.481516Z",
+                "email": "foret_debbie@yahoo.com",
+                "event": "https://api.calendly.com/scheduled_events/GCZ4SSTYNJNMYS33",
+                "first_name": null,
+                "last_name": null,
+                "name": "Debra Braet-Foret",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 949-306-2648",
+                        "position": 0,
+                        "question": "Best phone number to reach you at"
+                    },
+                    {
+                        "answer": "Current STRS/PERS Estimate",
+                        "position": 1,
+                        "question": "What are you interested in? "
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/GLFXGXQJYLT2JTQF",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-29T03:48:58.501476Z",
+                "uri": "https://api.calendly.com/scheduled_events/GCZ4SSTYNJNMYS33/invitees/GLFXGXQJYLT2JTQF"
+            }
+        ],
+        "user": "Joanna Lopez"
+    },
+    {
+        "created_at": "2021-08-03T01:01:26.153747Z",
+        "end_time": "2021-08-11T18:30:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/FCHHBTO5XDLMUFPE"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/GGDJF7TVTRL4TMVP",
+        "invitees_counter": {
+            "active": 0,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": "Tony Vaca will call you. His number is (916) 823-8727.",
+            "type": "custom"
+        },
+        "name": "District Meaningful Notice Appointment",
+        "start_time": "2021-08-11T18:00:00.000000Z",
+        "status": "canceled",
+        "updated_at": "2021-08-10T18:32:06.035378Z",
+        "uri": "https://api.calendly.com/scheduled_events/EE244HNKFS55W4SV",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/CKBVKEVFCOKOLHSY",
+                "cancellation": {
+                    "canceled_by": "Tony Vaca",
+                    "reason": ""
+                },
+                "created_at": "2021-08-03T01:01:26.172680Z",
+                "email": "kendelallyson@comcast.net",
+                "event": "https://api.calendly.com/scheduled_events/EE244HNKFS55W4SV",
+                "first_name": null,
+                "last_name": null,
+                "name": "Kendel Browning",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [
+                    {
+                        "answer": "+1 408-690-7338",
+                        "position": 0,
+                        "question": "Phone Number"
+                    },
+                    {
+                        "answer": "Campbell Union High School District",
+                        "position": 1,
+                        "question": "District Name"
+                    },
+                    {
+                        "answer": "I want to make sure I understand dependent care and HSA options.",
+                        "position": 2,
+                        "question": "Please share anything that will help prepare for our meeting."
+                    }
+                ],
+                "reschedule_url": "https://calendly.com/reschedulings/CKBVKEVFCOKOLHSY",
+                "rescheduled": false,
+                "status": "canceled",
+                "text_reminder_number": "+1 408-690-7338",
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-08-10T18:30:39.208344Z",
+                "uri": "https://api.calendly.com/scheduled_events/EE244HNKFS55W4SV/invitees/CKBVKEVFCOKOLHSY"
+            }
+        ],
+        "user": "Tony Vaca"
+    },
+    {
+        "created_at": "2021-07-30T04:00:10.994915Z",
+        "end_time": "2021-08-11T17:45:00.000000Z",
+        "event_guests": [],
+        "event_memberships": [
+            {
+                "user": "https://api.calendly.com/users/EHDHANZCMEUJD32K"
+            }
+        ],
+        "event_type": "https://api.calendly.com/event_types/DEHFQSRD4PVOQQ7S",
+        "invitees_counter": {
+            "active": 1,
+            "limit": 1,
+            "total": 1
+        },
+        "location": {
+            "location": null,
+            "type": "custom"
+        },
+        "name": "30 Minute Meeting",
+        "start_time": "2021-08-11T17:15:00.000000Z",
+        "status": "active",
+        "updated_at": "2021-07-30T04:00:11.947763Z",
+        "uri": "https://api.calendly.com/scheduled_events/BB75S5EXQCSN63UQ",
+        "invitees": [
+            {
+                "cancel_url": "https://calendly.com/cancellations/BLEUD3HQBLE3FTXV",
+                "created_at": "2021-07-30T04:00:11.017132Z",
+                "email": "perkinsjon60@hotmail.com",
+                "event": "https://api.calendly.com/scheduled_events/BB75S5EXQCSN63UQ",
+                "first_name": "Jonathan",
+                "last_name": "Perkins",
+                "name": "Jonathan Perkins",
+                "new_invitee": null,
+                "old_invitee": null,
+                "payment": null,
+                "questions_and_answers": [],
+                "reschedule_url": "https://calendly.com/reschedulings/BLEUD3HQBLE3FTXV",
+                "rescheduled": false,
+                "status": "active",
+                "text_reminder_number": null,
+                "timezone": "America/Los_Angeles",
+                "tracking": {
+                    "utm_campaign": null,
+                    "utm_source": null,
+                    "utm_medium": null,
+                    "utm_content": null,
+                    "utm_term": null,
+                    "salesforce_uuid": null
+                },
+                "updated_at": "2021-07-30T04:00:11.029835Z",
+                "uri": "https://api.calendly.com/scheduled_events/BB75S5EXQCSN63UQ/invitees/BLEUD3HQBLE3FTXV"
+            }
+        ],
+        "user": "BrianFreitag"
+    }
+]
