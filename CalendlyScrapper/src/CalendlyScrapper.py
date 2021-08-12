@@ -64,6 +64,7 @@ first_url = 'https://api.calendly.com/scheduled_events'
 first_response = requests.get(first_url,
                         params = {'organization' : current_organization,
                                   'count' : 100,
+                                  'status' : 'active',
                                   'sort': 'start_time:desc',
                                   'min_start_time' : today_str},
                         headers={'Authorization':'Bearer {}'.format(token)})
