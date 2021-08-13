@@ -3,7 +3,8 @@ import json, requests, sys, os, csv, ctypes
 from pytz import timezone
 import pytz
 from future.backports.test.pystone import FALSE
-
+import pandas as pd
+from pathlib import Path
 
 
 token = 'eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2F1dGguY2FsZW5kbHkuY29tIiwiaWF0IjoxNjI4NjM3NDg1LCJqdGkiOiJlM2JkZjkwNS02YzAxLTQ3NDgtOGIyNC0zZWMyYWIyZDUxMzciLCJ1c2VyX3V1aWQiOiJIQ0FHRENVRVZVR05HUFI1In0.TuM7yaVynzwuW0O8NiXTZlIQI9EoBXamF38Uvfhjr8s'
@@ -49,7 +50,16 @@ def get_invitees(appt):
                             params={'organization' : current_organization},
                             headers={'Authorization':'Bearer {}'.format(token)})
     for invitee in response.json()['collection']:
-        invitees.append(invitee)
+        temp = {}
+        temp['created_at'] = invitee['created_at']
+        temp['email'] = invitee['email']
+        temp['first_name'] = invitee['first_name']
+        temp['last_name'] = invitee['last_name']
+        temp['name'] = invitee['name']
+        temp['questions_and_answers'] = invitee['questions_and_answers']
+        temp['text_reminder_number'] = invitee['text_reminder_number']
+        temp['updated_at'] = invitee['updated_at']
+        invitees.append(temp)
     
     return invitees
 
@@ -107,8 +117,17 @@ while url is not None:
     print('Done with '+ str(cnt))
     url = response.json()['pagination']['next_page']
     
-#print(json.dumps(appointments, indent =4))
+outstr = json.dumps(appointments, indent =4)
+    
+#print(outstr)
 print('All Done, closing now ')
-file.write(json.dumps(appointments, indent =4))
+file.write(outstr)
 file.close()
+#file = open(path + '\\logs\\CalScraper' + time + '.txt', 'w+')
+
+df = pd.read_json(outstr)
+df.to_csv(path + '\\logs\\CalScraper' + time + '_flat.csv', line_terminator='\n')
+df=pd.json_normalize(appointments)
+df.to_csv(path + '\\logs\\CalScraper' + time + '_normal.csv', line_terminator='\n')
+
 
